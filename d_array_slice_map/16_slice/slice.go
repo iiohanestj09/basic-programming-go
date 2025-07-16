@@ -42,7 +42,7 @@ func main() {
 	var slice2 = months[9:]
 	fmt.Println(slice2)
 
-	var slice3 = append(slice2, "Neptunus")
+	var slice3 = append(slice2, "Neptunus") 
 	fmt.Println(slice3)
 	slice3[1] = "Bukan Desember"
 	fmt.Println(slice3)

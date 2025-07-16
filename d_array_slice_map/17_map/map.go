@@ -8,7 +8,7 @@ func main() {
 		"address" : "Malang",
 	}
 
-	person["title"] = "Programmer"
+	person["title"] = "Programmer" 
 
 	fmt.Println(person)
 	fmt.Println(person["name"])
